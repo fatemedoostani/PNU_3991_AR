@@ -1,23 +1,23 @@
 # PNU_3991_AR
 ---------
-### ملیکا زمان زاده
+### فاطمه دوستانی
  
 ---
-- [github account](https://github.com/melika-zamanzadeh/)
+- [github account](https://github.com/fatemedoostani)
   : حساب گیت هاب
-- [resume](https://melika-zamanzadeh.github.io/)
+- [resume](https://github.com/fatemedoostani/github.io)
   : رزومه
-- [SOP](https://melika-zamanzadeh.github.io/SOP/)
+- [SOP](https://github.com/fatemedoostani/sop)
   :انگیزنه نامه 
   
 ------------------
 
-[Java Script](https://github.com/melika-zamanzadeh/PNU_3991_AR/blob/main/CamScanner%2011-05-2020%2010.49.01_1.pdf)
+[Java Script]()
 
-[jlord Pathwork](https://github.com/melika-zamanzadeh/PNU_3991_AR/blob/main/Capture.pdf)
+
 
 -------------------
-# گروه های ملیکا زمان زاده
+# گروه های فاطمه دوستانی
 
 ------------------
 ## Winter Semester Courses 1399/2020
@@ -25,6 +25,7 @@
 ## دروس کارشناسی
 
 [روش پژوهش و ارائه 02 1322010](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods)
+[1115157_02 نظریه زبان ها و ماشین ها](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines#TOC)
 
 --------------
 ## روز و ساعت ارائه دروس
@@ -40,7 +41,7 @@
   </tr>
   <tr>
     <th ></th>
-    <th ></th>
+    <th ><a href='https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines#TOC'>نظریه زبان ها و ماشین ها<a/></th>
     <th ></th>
     <th></th>
     <th></th>
