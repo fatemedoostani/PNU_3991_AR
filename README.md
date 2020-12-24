@@ -14,9 +14,13 @@
 
 [Java Script](https://github.com/fatemedoostani/PNU_3991_AR/blob/main/downloadfile.pdf)
 
-[تایپ لاتک روش پژوهش و ارائه صفحه 58 تا 60](https://github.com/fatemedoostani/PNU_3991_AR/blob/main/58-60.rar)
+[tex تایپ لاتک روش پژوهش و ارائه صفحه 58 تا 60](https://github.com/fatemedoostani/PNU_3991_AR/blob/main/58-60.tex)
 
-[تایپ لاتک نظریه زبان ها و ماشین صفحه 109 تا 112](https://github.com/fatemedoostani/PNU_3991_AR/blob/main/109-112.rar)
+[pdf تایپ لاتک روش پژوهش و ارائه صفحه 58 تا 60](https://github.com/fatemedoostani/PNU_3991_AR/blob/main/58-60.pdf)
+
+[tex 112تایپ لاتک نظریه زبان ها و ماشین صفحه 109 تا](https://github.com/fatemedoostani/PNU_3991_AR/blob/main/109-112.tex)
+
+[pdf تایپ لاتک نظریه زبان ها و ماشین صفحه 109 تا 112](https://github.com/fatemedoostani/PNU_3991_AR/blob/main/109-112.pdf)
 
 -------------------
 # گروه های فاطمه دوستانی
